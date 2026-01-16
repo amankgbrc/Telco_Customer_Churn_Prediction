@@ -72,4 +72,4 @@ Below message in Python shell is seen, which indicates that our App is now hoste
 
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
-![Customer Retention](images/telco6.jpg)
+![Customer Retention](images/Telco6.jpg)
